@@ -1,0 +1,81 @@
+
+npm i -g create-react-app
+
+
+"editor.formatOnSave" : true,
+
+
+create-react-app PROJECTNAME
+
+cd  PROJECTNAME
+
+nmp start
+
+
+npm i bootstrap
+npm install jquery
+npm install popper.js --save
+
+
+npm i react-router-dom
+ 
+import "jquery/dist/jquery.min.js";
+import "bootstrap/dist/js/bootstrap.min.js";
+import "bootstrap/dist/css/bootstrap.min.css";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shoutldComponentUPdate()   true false
+
+
+
+import Perf from "react-addons-perf";
+
+
+  handleClick(e) {
+    Pert.start();
+  }
+  
+  
+Perf.Start() Stop()
+
+.getLastMEasurements()
+.printInclusive
+.printExclusive
+printWasted
+printOperations
+
+
+!!!!!!!  wasted table is most important
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
