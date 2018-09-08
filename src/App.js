@@ -7,7 +7,7 @@ import config from 'react-global-configuration';
 import index from './config/index'
 
 if (config.get('apiDomain')) {
-  LayoutBody(config.get('apiDomain'));
+  //LayoutBody(config.get('apiDomain'));
 } 
 class App extends Component {
   componentDidMount() {
