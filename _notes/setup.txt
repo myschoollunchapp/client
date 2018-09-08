@@ -24,6 +24,14 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
+VS extensions
+
+Simple React Snippets
+Better Align
+Prettier - Code formatter
+"editor.formatOnSave" : true,
+
+
 
 
 
